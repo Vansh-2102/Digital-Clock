@@ -1,16 +1,38 @@
-# React + Vite
+⏰ Digital Clock (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish and real-time Digital Clock built using React and Vite.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Displays live time in HH:MM:SS AM/PM format
 
-## React Compiler
+Real-time updates every second
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Clean and modern UI with background styling
 
-## Expanding the ESLint configuration
+Lightweight and fast (thanks to Vite)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Getting Started
+1. Clone the repository
+git clone https://github.com/your-username/digital-clock-react-vite.git
+
+2. Navigate into the project
+cd digital-clock-react-vite
+
+3. Install dependencies
+npm install
+
+4. Run the development server
+npm run dev
+
+5. Build for production
+npm run build
+
+🛠️ Tech Stack
+
+React 18
+
+Vite
+
+📸 Preview
+<img width="1363" height="631" alt="image" src="https://github.com/user-attachments/assets/32b3cbba-b0c5-44f5-b289-cb8f250ef312" />
